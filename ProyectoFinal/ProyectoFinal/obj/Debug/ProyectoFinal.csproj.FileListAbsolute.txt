@@ -1,0 +1,14 @@
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+S:\CURSO C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
